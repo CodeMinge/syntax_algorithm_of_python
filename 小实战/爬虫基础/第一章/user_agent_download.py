@@ -20,4 +20,4 @@ def download(url, user_agent='wswp', num_retries=2):
 				return download(url , num_retries - 1)
 	return html
 	
-print(download('http://www.baidu.com'))
+#print(download('http://www.baidu.com'))
