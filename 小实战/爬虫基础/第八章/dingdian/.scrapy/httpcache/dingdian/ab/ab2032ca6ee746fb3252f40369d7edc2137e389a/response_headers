@@ -1,0 +1,17 @@
+Server: Tengine
+Content-Type: text/plain
+Date: Wed, 02 Aug 2017 01:36:40 GMT
+Vary: Accept-Encoding
+Last-Modified: Fri, 06 Jan 2017 10:04:24 GMT
+Etag: W/"17-5456a247c0e45"
+Expires: Thu, 02 Aug 2018 01:36:40 GMT
+Cache-Control: max-age=31536000
+X-Cache-Status: MISS
+Content-Encoding: gzip
+Via: cache9.l2et15[31966,200-0,M], cache11.l2et15[2010,0], kunlun6.cn344[2041,200-0,M], kunlun10.cn344[30000,2041,504001]
+Age: 0
+X-Cache: MISS TCP_MISS dirn:-2:-2
+X-Swift-Savetime: Wed, 02 Aug 2017 01:37:46 GMT
+X-Swift-Cachetime: 31535934
+Timing-Allow-Origin: *
+Eagleid: b7e8978a15016378344166623e
