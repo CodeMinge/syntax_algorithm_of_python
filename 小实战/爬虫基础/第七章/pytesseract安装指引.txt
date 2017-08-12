@@ -1,0 +1,3 @@
+http://blog.sina.com.cn/s/blog_e0b6f5bd0102xhet.html
+
+参考这个博客，tesseract的安装并不是傻瓜似的，需要修改电脑中的文件。
